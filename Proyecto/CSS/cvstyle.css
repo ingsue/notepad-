@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+}
+
+h1 {
+   font-family: 'Tilt Neon', cursive;
+   padding: 20px 15px 15px 20px;
+   margin- 30px 15px 15px 20px ;
+   
+   font-weight: solid;
+
+   border-width: 2px;
+   border-color: green;
+   border-style: 5px solid black;
+}
+
+img{
+	  margin-bottom: 20px
+	  border-radius: 30px
+}
+fieldset {
+    margin-bottom: 20px
+}
+
+div{
+	background-color: light blu3;
+	adding: 20px 10px 10px 20px
+	width: 50px
+	

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF=8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta namme="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Proyecto</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\Usuario\Documents\Proyecto\CV.html\estiloscv.html" />
+    <link rel="preconect" href="https://fonts.googleapis.com">
+    <link rel="preconect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baile+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+    
+	<section>
+	    <h1=Curriculum Vitae=/h1>
+		<p>Hola a todos.<p>
+        <h2=Datos Personales=/h2>
+        <h2=Habilidades=/h2>
+        <h2=Formación académica=/h2>
+        <h2=Experiencia Laboral=/h2>
+        <h3=Referencias=/h3>
+        <h4=Aptitudes=/h4>
+        <h5=Expectativas=/h5>
+        <h6=Contacto=/h6>
+    </section>
+</body>
+</html>

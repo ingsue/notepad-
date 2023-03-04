@@ -1,0 +1,49 @@
+
+* {
+  color: blue;
+}
+
+p, span {
+   color: RED;
+   width: 300px;
+}
+
+/+
+Esto es un comentario dentro de un Documento de css
++/
+
+h1 {
+   font-family: 'Explora', cursive;
+   padding-top: 20px;
+   padding-bottom: 15px;
+   padding-left: 15px;
+   padding-right: 20px;
+   /*padding: 20px 15px 15px 20px;*/
+   margin-top: 30px;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+   font-weight: bold;
+
+   border-width: 2px;
+   border-color: grey;
+   border-style: 1px solid black;
+}
+
+section {
+      width: 300px;
+      border: 15px solid green;
+      padding: 50px;
+      margin: 20px;
+}
+
+#mi_párrafo {
+  color: pink;
+  Font-size: 23px;
+  border: 1px solid purple
+}
+
+.estaesmiclase {
+    font-weight: bold;
+    color: lightblue;
+}

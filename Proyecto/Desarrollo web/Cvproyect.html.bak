@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF=8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta namme="viewport" content="width=device-width, initial-scale=1.0">
+	  <title>Curriculum Vitae</title>"CSS/cv
+	  <link rel="stylesheet" type="text/css" href=}C:\Users\Usuario\Documents\Proyecto\CSS\cvstyle.css />
+	  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+	  <div>
+		    <h1>Curriculum vitae</h1>
+	      <img src="https://randomuser.me/api/portraits/women/93.jpg" alt="Foto de Perfil">
+	      <fieldset>
+	    	    <h2>Datos Personales</h2>
+		        <ul>
+			         <li>Susan Adams</li>
+			         <li>20/7/62</li>
+			         <li>Argentina</li>
+		        </ul>
+		    </fieldset>
+				
+	      <fieldset>
+	    	    <h2>Formación académica</h2>
+	    	    <ul>
+		     	      <li>Cursos de Word, Excel y Power Point</li>
+			          <li>Profesorado de Inglés</li>
+		        </ul>
+        </fieldset>
+    
+        <fieldset>
+		        <h2>Experiencia laboral</h2>
+		        <ul>
+			         <li>Docente en escuelas de diferentes niveles</li>
+			         </ul>
+		        <h2>Expectativas</h2>
+		        <ul>
+		          	<li>Conformar un grupo de trabajo</li>
+			          <li>Compartir, enseñar y aprender del grupo</li>
+			          <li>Trabajar en un ámbito agradable</li>
+			      </ul>
+		        <h2>Referencias</h2>
+		        <ul>
+			         <li>Colegio Nuestra Sagrada Familia. Año 2010</li>
+			         <li>Profesor de Tic Leonardo Da Vinci</li>
+			         <li>Institut0 de Formación Docente y Tecnica N° 147. Azul. Pcia de Bas As.</li>
+		        </ul>
+	      </fieldset>
+	  </div>
+	
+</body>
+
+</html>

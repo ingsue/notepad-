@@ -1,0 +1,9 @@
+P{
+  color: RED;
+  width: 300px;
+  /** Esto es un comentario dentro de un Documento de css
+  */
+  h1{
+    font-weight: bold;
+    color: grey;
+  }

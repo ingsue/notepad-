@@ -1,0 +1,4 @@
+
+let length = 16;
+let lastName = "Johnson";
+let x =(firstName:"John", lastName "Doe");
