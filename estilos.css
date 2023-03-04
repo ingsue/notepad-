@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(56, 136, 56);
+}
+
+h1 {
+    font-family: 'Tilt Neon'; cursiva;
+
+    padding: 20px 15px 15px 20px;
+    margin: 30px 15px 15px 20px;
+
+    font-weight: bolder;
+
+    border-width: 5px;
+    border-color: black;
+    border-style: 5px solid black;
+    }
+    
+    div {
+        background-color: white;
+        padding: 20px 10px 10px 20px;
+        width: 50px;
+    }
+
+    img {
+        margin-bottom: 20px;
+        border-radius: 30px;
+    }
+
+    h2 {
+        color:aqua;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 20px 10px 10px 20px;
+        margin:10px 10px 10px 10px;
+
+        font-weight: bold;
+
+        border-width: 5px;
+        border-color: blue;
+        border-style: 5px solid black;
+    }
+
+    

@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+
+div {
+    background-color: rgb(23, 185, 23);
+    border: solid rgb(42, 250, 35);
+    padding: 12px 12px 12px 12px ;
+    width: 60%;
+    margin: auto;
+}
+
+h1 {
+    background: scroll;
+    border-color: blue;
+    color: blue;
+}
+
+img {
+    border-radius: 60%;
+}
+
+fieldset {
+    margin-bottom: 12px;
+}
